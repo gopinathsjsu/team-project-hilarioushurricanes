@@ -8,5 +8,8 @@
 <br>
 <h3>Sprint Meeting</h3>
 Every Saturday
-
+<br>
+<h3>Technology Stack</h3>
+Frontend: ReactJS</br>
+Backend: Java
 
