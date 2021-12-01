@@ -22,3 +22,8 @@ Backend: Java
 
 ![cancellation airline](https://user-images.githubusercontent.com/78173506/144189531-e45a7770-4185-47fa-8914-0c341a7bea4e.png)
 
+# Use Case Diagram for Airline Reservation
+
+![usecase202](https://user-images.githubusercontent.com/78173506/144195896-ffdfbc25-847c-48e8-bd3e-b708dc487afd.png)
+
+
