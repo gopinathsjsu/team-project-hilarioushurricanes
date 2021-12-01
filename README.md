@@ -18,4 +18,7 @@ Backend: Java
 
 ![activity202team drawio](https://user-images.githubusercontent.com/78173506/144187981-372f9f25-9645-46e4-b765-a54a16eca6e4.png)
 
+# Activity Diagram for Airline Cancellation system
+
+![cancellation airline](https://user-images.githubusercontent.com/78173506/144189531-e45a7770-4185-47fa-8914-0c341a7bea4e.png)
 
