@@ -13,6 +13,9 @@ Every Saturday
 Frontend: ReactJS</br>
 Backend: Java
 
+# Class Diagram
+
+![Class_Diagram](https://user-images.githubusercontent.com/25964023/144201137-04c27c09-59e1-4b3c-bdf3-23ed3b3f97e3.png)
 
 # Activity Diagram for Airline reservation system
 
