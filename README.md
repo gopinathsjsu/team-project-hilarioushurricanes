@@ -14,6 +14,23 @@ Frontend: Express JS</br>
 Backend: NodeJS+Express Js</br>
 Database: PostgreSQL</br>
 Cloud Deployment: AWS EC2</br>
+</br>
+<h3>Task Distribution</h3>
+Frontend: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
+Backend: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
+WireFrame UI: Devangi Doshi, Radhika Vyas, Urja Naik </br>
+Architecture Diagram: Vaibhav Jajodia </br>
+Class Diagram: Devangi Doshi </br>
+Use Case Diagram: Urja Naik </br>
+Activity Diagram: Radhika Vyas </br>
+Deployment: Vaibhav Jajodia </br>
+</br>
+<h3> XP Core Values Implemented </h3>
+Communication: Radhika Vyas </br>
+Courage: Devangi Doshi </br>
+Simplicity: Vaibhav Jajodia </br>
+Feedback: Urja Naik </br>
+</br>
 
 # Architecture Diagram
 
