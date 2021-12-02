@@ -51,4 +51,7 @@ Cloud Deployment: AWS EC2</br>
 ![air-aggregate-reservation](https://user-images.githubusercontent.com/78173506/144405362-b2747774-525c-42ce-95af-8c703b3734db.jpg)
 
 
+# Burndown Chart
+
+![Search Flight](https://user-images.githubusercontent.com/35898042/144406766-c1c27099-fdfb-4210-8e13-e00d6849aa36.PNG)
 
