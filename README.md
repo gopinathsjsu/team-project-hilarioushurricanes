@@ -10,26 +10,27 @@
 Every Saturday
 <br>
 <h3>Technology Stack</h3>
-Frontend: Express JS</br>
-Backend: NodeJS+Express Js</br>
-Database: PostgreSQL</br>
-Cloud Deployment: AWS EC2</br>
+<b>Frontend</b>: Express JS</br>
+<b>Backend</b>: NodeJS+Express Js</br>
+<b>Database</b>: PostgreSQL</br>
+<b>Cloud Deployment</b>: AWS EC2</br>
 </br>
 <h3>Task Distribution</h3>
-Frontend: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
-Backend: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
-WireFrame UI: Devangi Doshi, Radhika Vyas, Urja Naik </br>
-Architecture Diagram: Vaibhav Jajodia </br>
-Class Diagram: Devangi Doshi </br>
-Use Case Diagram: Urja Naik </br>
-Activity Diagram: Radhika Vyas </br>
-Deployment: Vaibhav Jajodia </br>
+<b>Frontend</b>: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
+<b>Backend</b>: Devangi Doshi, Radhika Vyas, Urja Naik, Vaibhav Jajodia </br>
+<b>WireFrame UI</b>: Devangi Doshi, Radhika Vyas, Urja Naik </br>
+<b>Architecture Diagram</b>: Vaibhav Jajodia </br>
+<b>Class Diagram</b>: Devangi Doshi </br>
+<b>Use Case Diagram</b>: Urja Naik </br>
+<b>Activity Diagram</b>: Radhika Vyas </br>
+<b>Deployment</b>: Vaibhav Jajodia </br>
 </br>
 <h3> XP Core Values Implemented </h3>
-Communication: Radhika Vyas </br>
-Courage: Devangi Doshi </br>
-Simplicity: Vaibhav Jajodia </br>
-Feedback: Urja Naik </br>
+<b>Communication</b>: Radhika Vyas </br>
+<b>Courage</b>: Devangi Doshi </br>
+<b>Simplicity</b>: Vaibhav Jajodia </br>
+<b>Feedback</b>: Urja Naik </br>
+https://github.com/gopinathsjsu/team-project-hilarioushurricanes/blob/main/Xp-Values.pdf
 </br>
 
 # Architecture Diagram
