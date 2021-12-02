@@ -53,5 +53,5 @@ Cloud Deployment: AWS EC2</br>
 
 # Burndown Chart
 
-![Search Flight](https://user-images.githubusercontent.com/35898042/144406766-c1c27099-fdfb-4210-8e13-e00d6849aa36.PNG)
+![WhatsApp Image 2021-12-02 at 2 40 35 AM](https://user-images.githubusercontent.com/35898042/144473359-d1b6a9c0-0848-4d3e-876a-93ef4b78480f.jpeg)
 
