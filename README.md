@@ -10,8 +10,15 @@
 Every Saturday
 <br>
 <h3>Technology Stack</h3>
-Frontend: ReactJS</br>
-Backend: Java
+Frontend: Express JS</br>
+Backend: NodeJS+Express Js</br>
+Database: PostgreSQL</br>
+Cloud Deployment: AWS EC2</br>
+
+# Architecture Diagram
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/35898042/144365587-9d114f98-68cd-4543-a217-0edcc8d1be0b.png)
+
 
 # Class Diagram
 
