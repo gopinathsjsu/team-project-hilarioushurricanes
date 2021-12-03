@@ -50,6 +50,10 @@ https://github.com/gopinathsjsu/team-project-hilarioushurricanes/blob/main/Xp-Va
 
 ![cancellation airline](https://user-images.githubusercontent.com/78173506/144189531-e45a7770-4185-47fa-8914-0c341a7bea4e.png)
 
+# Deployment Diagram for Airline Cancellation system
+
+![Deployment diagram](https://user-images.githubusercontent.com/78173506/144528614-26095125-1397-49d0-bae7-3cdec0369716.png)
+
 # Use Case Diagram for Airline Reservation
 
 ![usecase202](https://user-images.githubusercontent.com/78173506/144195896-ffdfbc25-847c-48e8-bd3e-b708dc487afd.png)
