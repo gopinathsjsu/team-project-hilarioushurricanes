@@ -58,6 +58,11 @@ https://github.com/gopinathsjsu/team-project-hilarioushurricanes/blob/main/Xp-Va
 
 ![Compononent](https://user-images.githubusercontent.com/25964023/144528662-f93084f3-5782-4ad3-bb5f-cfb90811344c.png)
 
+# Deployment Diagram For Airline Reservation
+
+![Deployment diagram](https://user-images.githubusercontent.com/78173506/144528801-06b0abb2-cb66-424e-8155-2235d84c7ff4.png)
+
+
 # Task Decomposition
 
 ![Untitled](https://user-images.githubusercontent.com/78173506/144405491-93df00d8-1ee9-46de-917b-147c95dbc09a.png)
